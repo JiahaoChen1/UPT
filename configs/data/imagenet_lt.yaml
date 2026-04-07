@@ -1,0 +1,2 @@
+dataset: "ImageNet_LT"
+root: "/data00/jiahao/data/longtailed_dataset/imagenet-lt"

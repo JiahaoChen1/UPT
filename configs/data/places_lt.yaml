@@ -1,0 +1,2 @@
+dataset: "Places_LT"
+root: "/data00/jiahao/data/longtailed_dataset/places365_standard"
